@@ -1,2 +1,3 @@
-# hyper-recipe-manager-6l0q
+# Hyper Recipe Manager 6L0Q
+
 A recipe management application for modern development workflows.
